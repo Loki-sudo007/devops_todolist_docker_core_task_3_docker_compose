@@ -6,7 +6,7 @@ docker compose up --build
 
 To launch the application, go to:
 
-http://localhost:8081/
+http://localhost:8000/
 
 To stop the containers, run:
 
